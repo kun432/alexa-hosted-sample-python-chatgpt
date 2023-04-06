@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "locales": {
+        "ja-JP": {}
+      }
+    },
+    "publishingInformation": {
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "ja-JP": {
+          "examplePhrases": [],
+          "keywords": [],
+          "name": "会話で相談"
+        }
+      }
+    }
+  }
+}
